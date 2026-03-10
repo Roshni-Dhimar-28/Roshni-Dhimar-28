@@ -30,23 +30,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Roshni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roshni-Dhimar-28&show_icons=true&theme=tokyonight)
-
----
-
-### 🔥 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshni-Dhimar-28&layout=compact&theme=tokyonight)
-
----
-
-### 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Roshni-Dhimar-28&theme=tokyo-night)
-
----
 
 ### 🚀 Current Focus
 
