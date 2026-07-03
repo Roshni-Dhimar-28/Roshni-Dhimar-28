@@ -1,6 +1,6 @@
 <div align="center">
 
-# roshni@github:~$ 👋
+# roshni@github: 👋
 
 ```bash
 > whoami
@@ -91,13 +91,13 @@ Description  : A personal portfolio showcasing projects,
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-&nbsp;&nbsp;
+&nbsp;
 
 <a href="YOUR_PORTFOLIO">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-&nbsp;&nbsp;
+&nbsp;
 
 <a href="mailto:YOUR_EMAIL">
 <img src="https://skillicons.dev/icons?i=gmail" />
