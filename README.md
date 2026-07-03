@@ -1,124 +1,137 @@
-<h1 align="center">Hi 👋, I'm Roshni</h1>
+<div align="center">
 
-<p align="center">
-Building thoughtful web experiences with JavaScript, React & MERN
-</p>
+# roshni@github:~$ 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Full+Stack+Developer+(MERN);Building+real-world+web+applications;Always+learning,+always+creating." />
-</p>
+```bash
+> whoami
 
-<p align="center">
-  <a href="https://github.com/Roshni-Dhimar-28">
-    <img src="https://komarev.com/ghpvc/?username=Roshni-Dhimar-28&label=Profile%20Views&color=6C63FF&style=flat" />
-  </a>
-</p>
+Roshni
+Frontend Developer • MERN Stack Developer
+Building web applications that are simple, intuitive, and purposeful.
+```
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+clean+and+responsive+web+applications;Turning+ideas+into+interactive+experiences;Learning+something+new+every+day" />
 
-## 👩🏻‍💻 About Me
-
-I'm a **BCA graduate** passionate about building clean, responsive, and user-focused web applications.
-
-I enjoy transforming ideas into meaningful digital experiences using modern web technologies. Currently, I'm strengthening my skills in **JavaScript**, **React**, **Node.js**, **Express**, **MongoDB**, and **Data Structures & Algorithms** while building projects that help me grow as a developer.
-
-Outside coding, you'll usually find me practicing **Bharatanatyam**, exploring UI ideas, or learning something new.
+</div>
 
 ---
 
-## 🚀 Current Focus
+## ~/about.md
 
-- 🌱 Building real-world MERN stack projects
-- ⚛️ Deepening my React & JavaScript knowledge
-- 🧩 Solving DSA problems with Python
-- 💼 Preparing for Frontend & Full Stack Developer opportunities
+```yaml
+name: Roshni
+location: Chennai, India 🇮🇳
+education: BCA Graduate
 
----
+currently:
+  - Building MERN stack projects
+  - Practicing DSA with Python
+  - Preparing for Frontend & Full Stack roles
 
-## 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,python,git,github,vscode"/>
-
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### ⭐ SCORE
-> A secure skill-based freelancing platform built using the MERN stack, enabling students to connect through projects and opportunities.
-
-### 🌐 Portfolio Website
-> A personal portfolio showcasing my projects, technical skills, and journey as a developer.
-
-> *(More exciting projects are on the way...)*
+interests:
+  - Web Development
+  - UI Engineering
+  - Open Source
+  - Bharatanatyam
+```
 
 ---
 
-## 📊 GitHub Analytics
+## ~/tech-stack
 
-<p align="center">
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,python,git,github,vscode&perline=6"/>
+
+</div>
+
+---
+
+## ~/projects
+
+### 📦 SCORE
+
+```txt
+Status       : Completed ✅
+
+Description  : A secure skill-based freelancing platform
+               built using the MERN stack.
+
+Stack        : React • Node.js • Express • MongoDB
+```
+
+### 🌐 Portfolio
+
+```txt
+Status       : Improving 🚧
+
+Description  : A personal portfolio showcasing projects,
+               skills and my journey as a developer.
+```
+
+---
+
+## ~/github-stats
+
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Roshni-Dhimar-28&show_icons=true&theme=transparent&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshni-Dhimar-28&layout=compact&theme=transparent&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-## 🔥 GitHub Streak
+## ~/connect
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Roshni-Dhimar-28&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
-## 🌱 Currently Learning
-
-- Advanced React Patterns
-- Backend Development with Node.js & Express
-- Database Design with MongoDB
-- Data Structures & Algorithms
-- REST APIs & Authentication
-
----
-
-## 🤝 Let's Connect
-
-<p align="left">
-
-<a href="YOUR_LINKEDIN_URL" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<a href="YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="YOUR_PORTFOLIO_URL" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
+&nbsp;&nbsp;
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
+
+&nbsp;&nbsp;
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 </p>
 
 ---
 
-## 💭 Developer Philosophy
+## ~/commit.log
 
-> *"Code with curiosity. Design with empathy. Learn without limits."* ✨
+```git
+commit 001
+Author: Roshni
+
+✔ Built a feature
+✔ Fixed a bug
+✔ Learned something new
+✔ Repeated the process
+```
 
 ---
 
-<p align="center">
+<div align="center">
 
-Thanks for stopping by! ⭐
+```bash
+$ git status
 
-If you like my work, consider giving a ⭐ to a repository.
+On branch: career
 
-</p>
+No shortcuts.
+Just consistency.
+```
+
+⭐ Thanks for stopping by!
+
+</div>
