@@ -1,137 +1,179 @@
 <div align="center">
 
-# roshni@github: 👋
+# ROSHNI DHIMAR
 
-```bash
-> whoami
+### Full Stack Developer • Builder • Lifelong Learner
 
-Roshni
-Frontend Developer • MERN Stack Developer
-Building web applications that are simple, intuitive, and purposeful.
-```
+> *Building software with curiosity, discipline, and purpose.*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+clean+and+responsive+web+applications;Turning+ideas+into+interactive+experiences;Learning+something+new+every+day" />
+[ Portfolio ] • [ Resume ] • [ LinkedIn ] • [ Email ]
 
 </div>
 
----
 
-## ~/about.md
+## Why I Build
 
-```yaml
-name: Roshni
-location: Chennai, India 🇮🇳
-education: BCA Graduate
+I don't see programming as writing code.
 
-currently:
-  - Building MERN stack projects
-  - Practicing DSA with Python
-  - Preparing for Frontend & Full Stack roles
+I see it as solving problems that matter.
 
-interests:
-  - Web Development
-  - UI Engineering
-  - Open Source
-  - Bharatanatyam
+Every project I build is an opportunity to learn,
+every bug teaches patience,
+and every challenge shapes me into a better engineer.
+
+I'm not chasing shortcuts.
+
+I'm building a career that lasts.
+
+
+## Vision
+
+To become a software engineer who builds products that are
+thoughtfully designed,
+technically scalable,
+and genuinely useful.
+
+I believe great software isn't just about features.
+
+It's about making someone's day a little easier.
+
+## Mission
+
+✔ Learn continuously.
+
+✔ Build consistently.
+
+✔ Share openly.
+
+✔ Stay curious.
+
+✔ Never stop improving.
+
+```javascript
+class Roshni {
+
+    constructor() {
+        this.values = [
+            "Curiosity",
+            "Discipline",
+            "Consistency",
+            "Kindness"
+        ];
+    }
+
+    build() {
+        return "Products that solve real problems.";
+    }
+
+    learn() {
+        return "Every single day.";
+    }
+
+    dream() {
+        return "Become an exceptional Software Engineer.";
+    }
+
+}
+
+export default new Roshni();
 ```
 
----
+2023
 
-## ~/tech-stack
+Started learning web development
 
-<div align="center">
+↓
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,python,git,github,vscode&perline=6"/>
+Built my first website
 
-</div>
+↓
 
----
+Learned React
 
-## ~/projects
+↓
 
-### 📦 SCORE
+Discovered MERN
 
-```txt
-Status       : Completed ✅
+↓
 
-Description  : A secure skill-based freelancing platform
-               built using the MERN stack.
+Internships
 
-Stack        : React • Node.js • Express • MongoDB
-```
+↓
 
-### 🌐 Portfolio
+Real-world Projects
 
-```txt
-Status       : Improving 🚧
+↓
 
-Description  : A personal portfolio showcasing projects,
-               skills and my journey as a developer.
-```
+Today
 
----
+Preparing for Software Engineering roles
 
-## ~/github-stats
+↓
 
-<div align="center">
+Next Chapter
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Roshni-Dhimar-28&show_icons=true&theme=transparent&hide_border=true"/>
+Building products used by thousands.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshni-Dhimar-28&layout=compact&theme=transparent&hide_border=true"/>
+🟢 Building
 
-</div>
+• Apna Mart
 
----
+• Portfolio
 
-## ~/connect
+• MERN Projects
 
-<p align="center">
+━━━━━━━━━━━━━━━━━━
 
-<a href="YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+🟡 Learning
 
-&nbsp;
+• Java
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+• DSA
 
-&nbsp;
+• System Design
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+━━━━━━━━━━━━━━━━━━
 
-</p>
+🔵 Exploring
 
----
+• AI
 
-## ~/commit.log
+• Clean Architecture
 
-```git
-commit 001
-Author: Roshni
+• UI Design
 
-✔ Built a feature
-✔ Fixed a bug
-✔ Learned something new
-✔ Repeated the process
-```
+## Beyond Code
 
----
+I believe growth doesn't happen overnight.
 
-<div align="center">
+It happens through small improvements repeated consistently.
 
-```bash
-$ git status
+Whether I'm debugging an API,
+practicing Bharatanatyam,
+or reading a book,
 
-On branch: career
+I'm always trying to become a little better than yesterday.
 
-No shortcuts.
-Just consistency.
-```
+## Philosophy
 
-⭐ Thanks for stopping by!
+I don't want to be known
+for how many repositories I have.
 
-</div>
+I want to be known
+for the quality of the problems I solve.
+
+## One More Thing...
+
+This profile isn't a collection of projects.
+
+It's a timeline of my growth.
+
+Every repository is a lesson.
+
+Every commit is progress.
+
+And this is only the beginning.
+
+See you in the next chapter.
+
+-Roshni 🌸
