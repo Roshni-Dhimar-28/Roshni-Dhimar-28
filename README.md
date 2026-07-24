@@ -6,7 +6,7 @@
 
 > *Building software with curiosity, discipline, and purpose.*
 
-[ Portfolio ] • [ Resume ] • [ LinkedIn ] • [ Email ]
+[ https://roshnidhimar.netlify.app/ ]  • [ https://www.linkedin.com/in/roshnidhimar/ ] • [ rosedhimar@gmail.com ]
 
 </div>
 
